@@ -25,11 +25,6 @@ Hytale için hazırlanmış topluluk yapımı Türkçe lokalizasyon projesi.
 
 **Türkçe Yama: v1.0.0**
 
-## İndirme
-
-Güncel sürümü GitHub Releases bölümünden indirebilirsiniz:
-
-[Hytale Türkçe Yama – Güncel Sürüm](https://github.com/Gamessttyle/Hytale-Turkce-Yama/releases/latest)
 
 ## Kurulum
 
