@@ -1,6 +1,14 @@
+<div align="center">
+
+<img src="Logo.png" width="250">
+
 # Hytale Türkçe Yama
 
-Hytale için hazırlanmış topluluk yapımı Türkçe lokalizasyon projesi.
+**Hytale için hazırlanmış topluluk yapımı Türkçe lokalizasyon projesi.**
+
+</div>
+
+---
 
 ## Çevrilen İçerikler
 
