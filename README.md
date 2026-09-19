@@ -39,9 +39,9 @@
 
 ### Eşya İsimleri
 
-![Eşya İsimleri](Esya-Ismi-1.png)
+![Eşya İsimleri](Esya-İsmi-1.png)
 
-![Eşya İsimleri](Esya-Ismi-2.png)
+![Eşya İsimleri](Esya-İsmi-2.png)
 
 ### Yaratıcı Araçlar
 
@@ -55,7 +55,7 @@
 
 ### Eşya İsimleri
 
-![Eşya İsimleri](Item-Isimleri.png)
+![Eşya İsimleri](İtem-İsimleri.png)
 
 ## Sürüm
 
