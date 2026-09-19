@@ -47,7 +47,7 @@
 
 ![Yaratıcı Araçlar](Yaratici-Araclar.png)
 
-![Yaratıcı Araçlar](Yaratici-Araclar-2.png)
+![Yaratıcı Araçlar](Yaratıci-Araclar-2.png)
 
 ### Yükleme Ekranı
 
