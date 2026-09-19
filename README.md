@@ -27,6 +27,36 @@
 - Geliştirici araçları
 - Ve daha fazlası
 
+  ## Ekran Görüntüleri
+
+### Ana Menü
+
+![Ana Menü](Ana-Menu.jpg)
+
+### Envanter ve Eşyalar
+
+![Envanter ve Eşyalar](Envanter-Esya.png)
+
+### Eşya İsimleri
+
+![Eşya İsimleri](Esya-Ismi-1.png)
+
+![Eşya İsimleri](Esya-Ismi-2.png)
+
+### Yaratıcı Araçlar
+
+![Yaratıcı Araçlar](Yaratici-Araclar.png)
+
+![Yaratıcı Araçlar](Yaratici-Araclar-2.png)
+
+### Yükleme Ekranı
+
+![Yükleme Ekranı](Yukleme-Ekrani.jpg)
+
+### Eşya İsimleri
+
+![Eşya İsimleri](Item-Isimleri.png)
+
 ## Sürüm
 
 **Hytale 0.6.8**
