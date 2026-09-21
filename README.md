@@ -118,3 +118,10 @@ Eksik, hatalı veya doğal olmayan bir çeviri bulursanız GitHub Issues bölüm
 - Türkçe arayüz çevirisi
 - Oyun içi içerik çevirileri
 - Sunucu çevirileri
+
+### v1.0.1
+- Türkçe dil dosyalarında çeşitli düzeltmeler yapıldı.
+- Sunucu dil dosyası güncellendi.
+- Çeviri ve terminoloji düzenlemeleri yapıldı.
+- Bazı canlı isimleri dil yapısına uygun şekilde yeniden düzenlendi.
+- Paket sürümü 1.0.1 olarak güncellendi.
