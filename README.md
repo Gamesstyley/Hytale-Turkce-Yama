@@ -85,7 +85,7 @@ Ardından şu konuma gidin:
 
 `Hytale > install > release > package > game > latest > Client > Data > Shared > Language`
 
-`tr-Tr` klasörünün tamamını `Language` klasörünün içine yerleştirin.
+`tr-Tr` klasörünün tamamını `Language` klasörünün içine yerleştirin. Ardından oyuna bir kez giriş yapın. Ayarlar kısmından dil kısmını Sistem dilini Kullan deyin. Aksi takdirde yama çalışmayabilir. Sonra üçüncü aşamaya geçin.
 
 ### 3. Oyun içi çeviriyi yükleyin
 
